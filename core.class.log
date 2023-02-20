@@ -1,0 +1,157 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215646248443@s.whatsapp.net',
+    fromMe: false,
+    id: '61CACE560000E4A1C5D39CB41905175F',
+    participant: undefined
+  },
+  messageTimestamp: 1676859981,
+  pushName: 'LavaGo',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'LavaGo',
+  body: 'Hola',
+  from: '5215646248443'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215646248443@s.whatsapp.net',
+    fromMe: false,
+    id: '458A058485A995BE1B267224A1A71389',
+    participant: undefined
+  },
+  messageTimestamp: 1676859984,
+  pushName: 'LavaGo',
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'LavaGo',
+  body: '2',
+  from: '5215646248443'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215646248443@s.whatsapp.net',
+    fromMe: false,
+    id: '9D75515B707FB2B56B7AFC6EA3BD6C1C',
+    participant: undefined
+  },
+  messageTimestamp: 1676859987,
+  pushName: 'LavaGo',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: '⬅️ Volver al Inicio',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'LavaGo',
+  body: '⬅️ Volver al Inicio',
+  from: '5215646248443'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215646248443@s.whatsapp.net',
+    fromMe: false,
+    id: '17B1A7FDE3305283F15D4FE69873067A',
+    participant: undefined
+  },
+  messageTimestamp: 1676859990,
+  pushName: 'LavaGo',
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'LavaGo',
+  body: '3',
+  from: '5215646248443'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215646248443@s.whatsapp.net',
+    fromMe: false,
+    id: 'A56423BB2A02FF83B5D4498E403D50F9',
+    participant: undefined
+  },
+  messageTimestamp: 1676860011,
+  pushName: 'LavaGo',
+  message: Message {
+    conversation: 'Hshshd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'LavaGo',
+  body: 'Hshshd',
+  from: '5215646248443'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215646248443@s.whatsapp.net',
+    fromMe: false,
+    id: '8F55CBD513D99D3D2C3021BD08C527DC',
+    participant: undefined
+  },
+  messageTimestamp: 1676860340,
+  pushName: 'LavaGo',
+  message: Message {
+    conversation: 'Ok',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'LavaGo',
+  body: 'Ok',
+  from: '5215646248443'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215646248443@s.whatsapp.net',
+    fromMe: false,
+    id: 'E716D8D70351995E436BBF742DCF5CDC',
+    participant: undefined
+  },
+  messageTimestamp: 1676860383,
+  pushName: 'LavaGo',
+  message: Message {
+    conversation: '🙌 Hola bienvenido a *LavaGo*\n' +
+      'Gracias por tu confianza\n' +
+      'A continuación escribe el *número* de la opción deseada:\n' +
+      '1️⃣Agendar un servicio 📆\n' +
+      '2️⃣Área de cobertura 🌎\n' +
+      '3️⃣Soporte a clientes 👩🏼‍💻\n' +
+      '4️⃣Soporte a Sucursales 🏬',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'LavaGo',
+  body: '🙌 Hola bienvenido a *LavaGo*\n' +
+    'Gracias por tu confianza\n' +
+    'A continuación escribe el *número* de la opción deseada:\n' +
+    '1️⃣Agendar un servicio 📆\n' +
+    '2️⃣Área de cobertura 🌎\n' +
+    '3️⃣Soporte a clientes 👩🏼‍💻\n' +
+    '4️⃣Soporte a Sucursales 🏬',
+  from: '5215646248443'
+}
